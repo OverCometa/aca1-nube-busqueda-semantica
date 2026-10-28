@@ -1,0 +1,34 @@
+[
+  {
+    "file": "01_guia_academica.md",
+    "title": "Guía didáctica de acompañamiento académico",
+    "tema": "academico",
+    "dataset_fields": [
+      "Curricular units 1st sem (approved)",
+      "Curricular units 1st sem (enrolled)"
+    ],
+    "url": "https://github.com/OverCometa/aca1-nube-busqueda-semantica/blob/main/corpus/01_guia_academica.md",
+    "origin": "Elaboración propia, guía didáctica; no política institucional"
+  },
+  {
+    "file": "02_guia_financiera.md",
+    "title": "Guía didáctica de orientación sobre apoyos económicos",
+    "tema": "financiero",
+    "dataset_fields": [
+      "Tuition fees up to date",
+      "Scholarship holder"
+    ],
+    "url": "https://github.com/OverCometa/aca1-nube-busqueda-semantica/blob/main/corpus/02_guia_financiera.md",
+    "origin": "Elaboración propia, guía didáctica; no política institucional"
+  },
+  {
+    "file": "03_guia_bienestar.md",
+    "title": "Guía didáctica de orientación hacia bienestar e inclusión",
+    "tema": "bienestar",
+    "dataset_fields": [
+      "Educational special needs"
+    ],
+    "url": "https://github.com/OverCometa/aca1-nube-busqueda-semantica/blob/main/corpus/03_guia_bienestar.md",
+    "origin": "Elaboración propia, guía didáctica; no política institucional"
+  }
+]
