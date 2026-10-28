@@ -1,0 +1,26 @@
+[
+  {
+    "question": "¿Qué puedo hacer para organizar el estudio semanal?",
+    "expected_theme": "academico"
+  },
+  {
+    "question": "¿Cómo solicitar ayuda para comprender una asignatura?",
+    "expected_theme": "academico"
+  },
+  {
+    "question": "¿Qué debo consultar si no puedo pagar la matrícula?",
+    "expected_theme": "financiero"
+  },
+  {
+    "question": "¿Cómo preparar una solicitud de beca?",
+    "expected_theme": "financiero"
+  },
+  {
+    "question": "¿Dónde solicitar acompañamiento psicosocial?",
+    "expected_theme": "bienestar"
+  },
+  {
+    "question": "¿Cómo pedir orientación por barreras de aprendizaje?",
+    "expected_theme": "bienestar"
+  }
+]
